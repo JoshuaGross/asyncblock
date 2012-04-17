@@ -12,8 +12,8 @@
 		"url": "git://github.com/scriby/asyncblock.git"
 	},
 	"dependencies": {
-		"fibers": "0.6.5",
-        "uglify-js_scriby": "https://github.com/scriby/UglifyJS/tarball/1.2.5-6"
+		"fibers": "https://github.com/JoshuaGross/node-fibers/tarball/master",
+    "uglify-js_scriby": "https://github.com/scriby/UglifyJS/tarball/1.2.5-6"
 	},
     "devDependencies": {
         "vows": "0.6.0",
